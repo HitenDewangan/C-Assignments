@@ -1,11 +1,11 @@
 # C-Assignments 30-11-2023
 
 P1 - Write a program in C to check if a given number is even or odd using the function.
-—--------------------------------------------------------------------------------
+—-----------------------------------------------
 P2 - Write a program in C to check whether a number is a prime number or not using the function
-—--------------------------------------------------------------------------------
+—------------------------------------------------
 P3 - Write a program in C to swap two numbers using a function. 
-—--------------------------------------------------------------------------------
+—-----------------------------------------------
 P4 - Write a program in C to find the sum of the series 1!/1+2!/2+3!/3+4!/4+5!/5 using the function. 
 —--------------------------------------------------------------------------------
 P5 - Write a C program to find second largest number of four variables scanned using function
